@@ -1,4 +1,4 @@
-# Physics-Excersise
+# Physics Exercise
 **Version: 0.1**
 * Blocks and squares which fall and have interactibility.
 * Walls which dont move, but have interactibility.
